@@ -1,0 +1,16 @@
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\bin\Debug\net5.0\gbhw8.exe
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\bin\Debug\net5.0\gbhw8.deps.json
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\bin\Debug\net5.0\gbhw8.runtimeconfig.json
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\bin\Debug\net5.0\gbhw8.runtimeconfig.dev.json
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\bin\Debug\net5.0\gbhw8.dll
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\bin\Debug\net5.0\ref\gbhw8.dll
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\bin\Debug\net5.0\gbhw8.pdb
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\gbhw8.csproj.AssemblyReference.cache
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\gbhw8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\gbhw8.AssemblyInfoInputs.cache
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\gbhw8.AssemblyInfo.cs
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\gbhw8.csproj.CoreCompileInputs.cache
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\gbhw8.dll
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\ref\gbhw8.dll
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\gbhw8.pdb
+C:\Users\Zoya\Documents\geekbrains\homework8\gbhw8\obj\Debug\net5.0\gbhw8.genruntimeconfig.cache
